@@ -1,8 +1,8 @@
 package main
 
 import (
-	"calc"
 	"fmt"
+	"local_interface/calc"
 )
 
 func main() {
